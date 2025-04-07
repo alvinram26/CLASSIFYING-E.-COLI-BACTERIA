@@ -6,6 +6,19 @@ Penelitian ini mengembangkan sistem klasifikasi lokasi protein E. coli menggunak
 ## Latar Belakang
 Prediksi lokasi protein dalam sel E. coli merupakan langkah penting dalam memahami fungsi protein dan interaksinya dalam sistem seluler. Penelitian ini menggunakan pendekatan machine learning untuk mengotomatisasi proses klasifikasi berdasarkan karakteristik protein yang dapat diukur.
 
+## 📄 Publikasi
+
+Penelitian ini telah dipublikasikan dalam:
+
+**Jurnal Ilmiah Teknologi dan Komputer (JITK)**  
+Vol. 10, No. 2, November 2024  
+Judul: *Comparison of Ensemble Methods for Decision Tree Models in Classifying E. Coli Bacteria*  
+Penulis: Alvin Rahman Al Musyaffa, Yoga Pristyanto, Nia Mauliza  
+Lembaga: Universitas Amikom Yogyakarta  
+Akreditasi: SINTA 2   
+📎 Lihat publikasi: [Jurnal Lengkap (PDF)](./jurnal_ecoli.pdf)
+
+
 ## Metodologi
 
 ### Dataset
@@ -172,15 +185,3 @@ Model ensemble berhasil mengklasifikasikan lokasi protein E. coli dengan akurasi
 # Hasil Keseluruhan
 ![Hasil Keseluruhan](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/model.png?raw=true)
 
-## 📄 Publikasi
-
-Penelitian ini telah dipublikasikan dalam:
-
-**Jurnal Ilmiah Teknologi dan Komputer (JITK)**  
-Vol. 10, No. 2, November 2024  
-Judul: *Comparison of Ensemble Methods for Decision Tree Models in Classifying E. Coli Bacteria*  
-Penulis: Alvin Rahman Al Musyaffa, Yoga Pristyanto, Nia Mauliza  
-Lembaga: Universitas Amikom Yogyakarta  
-Akreditasi: SINTA 2  
-DOI: [10.33480 /jitk.v10i3.5972](https://doi.org/10.33480 /jitk.v10i3.5972) 
-📎 Lihat publikasi: [Jurnal Lengkap (PDF)](./jurnal_ecoli.pdf)
