@@ -145,3 +145,42 @@ Model ensemble berhasil mengklasifikasikan lokasi protein E. coli dengan akurasi
 ## Referensi
 1. Dataset: UCI Machine Learning Repository - Ecoli Dataset
 2. Horton, P., & Nakai, K. (1996). A probabilistic classification system for predicting the cellular localization sites of proteins. Intelligent Systems in Molecular Biology, 4, 109-115.
+
+## Hasil Visualisasi
+# 1. Preprocessing
+
+   
+   ## 📊 Deteksi Outlier
+![Deteksi Outlier](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/outlier.png?raw=true)
+
+   ## 📊 Missing Value
+![Missing Value](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/missing.png?raw=true)
+
+# 1. Hasil Klasifikasi
+## 📊 Accuracy
+![Hasil Akurasi](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/accuracy.png?raw=true)
+
+## 📊 Precision
+![Hasil Precision](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/precision.png?raw=true
+
+## 📊 Recall
+![Hasil Recall](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/recall.png?raw=true)
+
+## 📊 F1-Score
+![Hasil F1-Score](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/f1.png?raw=true)
+
+# Hasil Keseluruhan
+![Hasil Keseluruhan](https://github.com/alvinram26/CLASSIFYING-E.-COLI-BACTERIA/blob/main/model.png?raw=true)
+
+## 📄 Publikasi
+
+Penelitian ini telah dipublikasikan dalam:
+
+**Jurnal Ilmiah Teknologi dan Komputer (JITK)**  
+Vol. 10, No. 2, November 2024  
+Judul: *Comparison of Ensemble Methods for Decision Tree Models in Classifying E. Coli Bacteria*  
+Penulis: Alvin Rahman Al Musyaffa, Yoga Pristyanto, Nia Mauliza  
+Lembaga: Universitas Amikom Yogyakarta  
+Akreditasi: SINTA 2  
+DOI: [10.33480 /jitk.v10i3.5972](https://doi.org/10.33480 /jitk.v10i3.5972) 
+📎 Lihat publikasi: [Jurnal Lengkap (PDF)](./jurnal_ecoli.pdf)
